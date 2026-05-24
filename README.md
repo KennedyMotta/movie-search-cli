@@ -35,3 +35,5 @@ A simple command-line application built in Java that consumes the OMDb API to se
 ---
 
 ## 📸 Example
+
+![Movie Search CLI Demo](screenshot.png)
